@@ -1,0 +1,6 @@
+Type,Package,Salutation,Name,Email,Password,Company,Business Types,Established,City,Postal,Country ID,Mobile,Phone 1,Phone 2,Fax,Categories,Company Email,Website,Hide Contact,Languages,Address,Description,Additional Notes,Main Exports,Main Imports,Export Destinations,Current Markets,Annual Revenue,Product Interests,Factory Address,Certifications,Subscribe,Halal,Verified Member
+Buyer,Regular,mr,Nikola Tesla,nikola.tesla@creative.tld,password123,Tesla Coil,"manufacturer, wholesaler",1856,Jakarta,12345,Indonesia,,,,,"Aviation Engine Parts, Candy",,,No,,,,,,,,,,,,,,No,Yes
+Seller,Option 1,mrs,Marie Curie,marie.curie@creative.tld,password123,Radioactive,wholesaler,1867,Jakarta,12345,Indonesia,,,,,,,,Yes,Indonesian ,,,,,,,,,,,,,No,
+Seller,Option 3,ms,Hedy Lamarr,hedy.lamarr@creative.tld,password123,Spread Spectrum,"distributor, retailer",1914,Jakarta,12345,Indonesia,,,,,,,,,"Indonesian, English",,,,,,,,,,,,,Yes,No
+Buyer,Paid,dr,Hans Lippershey,hans.lippershey@creative.tld,password123,Telescope,retailer,1570,Jakarta,12345,Indonesia,,,,,,,,,,,,,,,,,,,,,,No,
+Seller,Regular,prof,Albert Einstein,albert.einstein@creative.tld,password123,Theory of Relativity,manufacturer,1879,Jakarta,12345,Indonesia,,,,,,,,,English,,,,,,,,,,,,,Yes,
